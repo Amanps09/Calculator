@@ -1,6 +1,6 @@
 # Calculator
 
-A new Flutter project.
+Tried to make a calculator with basic algebraic functionalities.
 
 ## Getting Started
 
